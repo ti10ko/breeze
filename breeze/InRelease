@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Thu, 07 Jan 2021 23:54:43 +0000
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages
+ 2636720d20f2d2525f74aa9973da98d2               29 Packages.gz
+ 0aef8a3723d3dc15bc7f358e1bd91c03               38 Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
+ 02e221beb6285d9fa8c17825564323c3a002895e               29 Packages.gz
+ 3dfed8f3bbe73aec664844aa4f3909a3a83162b6               38 Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
+ 6c1e403c3ae731e07a885a276bbea35d9d5b9306609ea2c446dc04f3474f3374               29 Packages.gz
+ 1304935b812c01e466311d785eec2d41da4f8ddc0e4cb5ebee774891214cc2b1               38 Release
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
+ f2278364ec8237d96eaf6e189a59b1eb3246ad591b8e4cafe01954c7d4f464c236d9924cbb9d96e88b024262f882c01124b2d26b10abdcbf6ced77f04b4b1abb               29 Packages.gz
+ 3b7529dc879bce13a9fe416fa8cb363151da3f150a0baeb2660751b97b27a3041318e3bad14322613e882a5a85d7eb69c0eb32f501ff2db3c62e06cb8a61107b               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJIBAEBCgAyFiEEKRBD3YzkNG7wuihXV1eW92asMaMFAl/3n3MUHHRpdGVua28u
+bUBnbWFpbC5jb20ACgkQV1eW92asMaPoCRAAk+m1Q5Q3Fc5Q0s6n1PV10PzK3vYN
+5ufXR8ANh36pmMpwxdsTww6SXqBovRjJOJz4LKKQZjkpdKqgmI3GGT88JRx/FIS6
+a1cxg29DZyLtuvdsQZ+Bgbkzl7TZBqp1wWfCQY1U/9OOos7/AQrFyMQUx0WoBLZn
+U0fIbG9LLNPIo0PMve7XLAVi00l90p6PxEPnAQUl3zSYcrUwMiOhRAsp9LpFIuIW
+RNri0sOrnKn49hhAqiT3hMBqropm8rSilML4nqhhronuPkL0627+XtTUgq+Rsa1z
+0PhWWKqyYj9gV0u6BkvpyIHhdxwbTRiImKV0KJAa/W3idQ/LSCSYYaKhi9CspZTV
+je3zv2IwFB3ihpHxCV1Nazmm56ANABDuWrj3kaVyt1Sk4L9SrdXg0wfvVsMX5lMs
+9O4XZxuOdoN6zM2tbW5HTfttHRTX/ZXVDfusO7TkLdtQnHYUyRfk5rH9HTZXjN/D
+xfhq9IaU5DL0A0tpzOxzsew5wOqC+oMvjjsd9u9Yc1mrRXqjBf2SFH5BM9a+o5M5
+9c89bthOJ+D+mRUlhxPfE6j2p4Ch0+iDsn+SzvToD4O5arhkLci78+lsfrEPIe3W
+HFsD8782tDGakKWQqeuU8maD14SoCT7tgzpy95wKLUglI1f4j7OommDlo6X6gosk
+6/Tkh2h7bYabXSA=
+=2Hz3
+-----END PGP SIGNATURE-----
