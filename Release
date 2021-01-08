@@ -1,0 +1,29 @@
+Date: Fri, 08 Jan 2021 01:46:36 +0000
+MD5Sum:
+ 2a36b3c3a4a621a3f09a44372b456a5e              905 Packages
+ 07d65919ddd04a0b6551ffcccb85287d              588 Packages.gz
+ facd543030e728b306b30028d0dac162               38 Release
+ 4aa288962ce33fdc8cba74f7f28c44e7              898 ubuntu/Packages
+ 7651571eca07d04fdf6643a1ef52abbf              585 ubuntu/Packages.gz
+ 2811c98f8d3a910ac44e2a34153d315b             1204 ubuntu/Release
+SHA1:
+ af2284ccd6f8e9b134dfce331288fcc109ae9fb5              905 Packages
+ 32d079a958b0fa028c47410b0f02162ad1d6933a              588 Packages.gz
+ 9d1b28d0e7aeda249f299f71a1ceb96ea697783c               38 Release
+ 6df32114771f0e636db0f1b168bf4484978e0936              898 ubuntu/Packages
+ c79fcb79ae704468b4324d00f31516cbf54476cb              585 ubuntu/Packages.gz
+ 2ac68a8a8ab7e934aaab73153e482de8b171c4d5             1204 ubuntu/Release
+SHA256:
+ 40db73d59e39387af82c1740818244f420cad70897977ef5272496c8c4e0df8d              905 Packages
+ 1d38d9a3242c7e04f727ebf520aafd8dedb6d028c4aec1e943b2e9fdda4e87f6              588 Packages.gz
+ 2551b8c71230d1c9985a385d8efc3e0ef0a9313f1dbbe6ac4ca4c19bbb3dcebf               38 Release
+ bad7431d93c0f1fe82b2ff980991663ff79d075e44b7ca25f02b8f7889a973eb              898 ubuntu/Packages
+ 2294f29e9d7fdcd3db97d96226906f2fe27bc18cb36de6acdfce5f0a9fef146c              585 ubuntu/Packages.gz
+ cc824168ba194bee73d6874480b718f862853f64f9f857f8a5a8ab26bc083026             1204 ubuntu/Release
+SHA512:
+ 2dd54ff20dbdc28a4c75b084cd049969bbd8a3bf8c3b0f305fbcc11c57771ccec706b56c7f0d135e572fb4b375f404260a1226b1e40eb26de7914408b22e7628              905 Packages
+ c2f6164570627fd8e47aafd77021137e8f80658cfb51d2427ce9f91941e70568a64b60c2f39553a2859177b75679fe3cbea5b1dce71e79b50b190d3a11ff00c4              588 Packages.gz
+ ab4c35dd0543329e8d81ba96d697d67c957eb3bc0ef3f42b8a474c7115d21ffd5c7fc6f6075912943e40f36fa20fb48ac942032df2d85eb3cac77688c0ff06b3               38 Release
+ ee6a59257a2a32df1b063c36124922242173f325bb50a351483c2846615a1f54bcccf1e4b738502dfd76c956b19c5687c9b7b02ff85a9f2a15ebf363e434e783              898 ubuntu/Packages
+ 59b0e35648aae3ab7becc51cbe15724d232d9b04b789607a2603c9167b18482b9dbd1ec120af9067f61ad1688825d5197fe4a13107b42f2414264bedcd31ed6a              585 ubuntu/Packages.gz
+ da318b6ef880a495ef4e61b288eaf01cc01245786886e58089c7077eca8282e18857ff6a8224847ea800305aec99af05511af3f300a7bb5fe4af28eea1c9fdcd             1204 ubuntu/Release
