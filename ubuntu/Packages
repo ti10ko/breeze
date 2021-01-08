@@ -88,3 +88,25 @@ Description: Ubiquity slideshow for Breeze
  .
  (Repackaged on Fri, 08 Jan 2021 03:03:30 +0100 by dpkg-repack.)
 
+Package: ubiquity-slideshow-breeze-kde
+Source: ubiquity-slideshow-ubuntu
+Version: 162
+Architecture: all
+Maintainer: Ubuntu Developers
+Installed-Size: 1134
+Conflicts: ubiquity-slideshow
+Replaces: ubiquity-slideshow
+Provides: ubiquity-slideshow
+Filename: ./Breeze-KDE/ubiquity-slideshow-breeze-kde_162_all.deb
+Size: 5977340
+MD5sum: a059d915570de9ac5e4ff4a9aba81752
+SHA1: a1326734099cfa6b1f53220b8be035e53a1ce406
+SHA256: 8eade807b87e6070c3c12af7c553387f5c59f1e6f37c437aaa8a6226f29f605c
+Section: x11
+Priority: optional
+Description: Ubiquity slideshow for Breeze
+ A slideshow intended for the Ubiquity installer, designed as a quick
+ introduction to Breeze.
+ .
+ (Repackaged on Fri, 08 Jan 2021 03:03:30 +0100 by dpkg-repack.)
+
