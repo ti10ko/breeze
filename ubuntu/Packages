@@ -66,6 +66,33 @@ Description: PulseAudio sound server
  .
  (Repackaged on Fri, 08 Jan 2021 02:52:27 +0100 by dpkg-repack.)
 
+Package: pulseaudio-module-bluetooth
+Source: pulseaudio
+Version: 1:13.99.2-1breeze3.8
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 319
+Depends: libc6 (>= 2.14), libdbus-1-3 (>= 1.9.14), libpulse0 (= 1:13.99.1-1ubuntu3.8), libsbc1, pulseaudio, bluez (>= 5.23)
+Filename: ./Breeze-KDE/pulseaudio-module-bluetooth_13.99.2-1breeze3.8_amd64.deb
+Size: 60436
+MD5sum: 0ccd13871791a397b244c0a1245b82ae
+SHA1: ecc3b0108239266f50a1a988731fba86a404c268
+SHA256: cfdf27af9b767a99f641b8689c2092a7a53f1f782dda2df2f86615f6c50b0e1b
+Section: sound
+Priority: optional
+Homepage: http://www.pulseaudio.org
+Description: Bluetooth module for PulseAudio sound server
+ PulseAudio, previously known as Polypaudio, is a sound server for POSIX and
+ WIN32 systems. It is a drop in replacement for the ESD sound server with
+ much better latency, mixing/re-sampling quality and overall architecture.
+ .
+ This module enables PulseAudio to work with bluetooth devices, like headset
+ or audio gateway.
+ .
+ The module is called module-bluetooth
+ .
+ (Repackaged on Fri, 08 Jan 2021 05:09:06 +0100 by dpkg-repack.)
+
 Package: ubiquity-slideshow-breeze
 Source: ubiquity-slideshow-ubuntu
 Version: 161
