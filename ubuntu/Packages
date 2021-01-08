@@ -1,3 +1,19 @@
+Package: kdiskmark
+Version: 2.1.0-3
+Architecture: amd64
+Maintainer: Dmitry Ilyich Sidorov <jonmagon@gmail.com>
+Installed-Size: 378
+Depends: fio (>= 3.1), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5 (>= 5.2.0~alpha1), libstdc++6 (>= 5)
+Filename: ./KDE/kdiskmark_2.1.0-3_amd64.deb
+Size: 114964
+MD5sum: 94fd8404f03815fd4f0fb0bf67589fa6
+SHA1: 7abf4335b8ba3050b81e36703ca2b432572b793b
+SHA256: ac894b810b7cc2a17ac47ffe6fa8bec99961ffe4288fadc7b6cdc7e5899394fc
+Section: devel
+Priority: optional
+Homepage: https://github.com/JonMagon/KDiskMark
+Description: A simple open source disk benchmark tool for Linux distros
+
 Package: leafpad
 Version: 0.8.18.1-5
 Architecture: amd64
